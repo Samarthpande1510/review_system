@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+
+# Large datasets (optional, but highly recommended if they are large)
+backend/*.dat
